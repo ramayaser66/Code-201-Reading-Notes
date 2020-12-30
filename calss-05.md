@@ -5,7 +5,7 @@ ___________________________________________________________________
 A picture makes the difference between an average-looking site and a really engaging one! 
 
 ## Storing Images on Your Site:
-![images]("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCGeZGIiNTbbnNU2Z-sEM1daKXr6zH7EFhuA&usqp=CAU")
+![images](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCGeZGIiNTbbnNU2Z-sEM1daKXr6zH7EFhuA&usqp=CAU)
 
 Note: If you are building a site from scratch, it is good practice to create a folder for all of the images the site uses.
 
@@ -48,8 +48,9 @@ Images created for the web should be saved at a resolution of 72 ppi. The higher
 
 ________________________________________________________________________________________________________________________________
 
-# Color!
-![color]("https://miro.medium.com/max/1680/1*ECJO0bO2oHJwm-wlrbr7Ag.png")
+> # Color!
+
+![color](https://miro.medium.com/max/1680/1*ECJO0bO2oHJwm-wlrbr7Ag.png)
 
 Note: Every color on a computer screen is created by mixing amounts of red, green, and blue. 
 .
@@ -80,8 +81,9 @@ The CSS3 rgba property allows you to specify a color, just like you would with a
 Note: CSS3 also allows you to specify colors as HSL values, with an optional opacity value. It is known as HSLA. 
 ___________________________________________________________________________________________________________________________________________________________
 
-# Text 
-![text]("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1tAewI46AuEQLDq8uEyj6hG5J01Ly3um5pg&usqp=CAU")
+> # Text 
+
+![text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1tAewI46AuEQLDq8uEyj6hG5J01Ly3um5pg&usqp=CAU)
 
 
 -	Serif 
