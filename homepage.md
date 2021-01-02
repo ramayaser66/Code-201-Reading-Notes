@@ -21,4 +21,6 @@ ________________________________________________________________
 |   Day 1    | class-01 |[ read 01 ](https://ramayaser66.github.io/Code-201-Reading-Notes/class-01)| 
 |   DAY 2    | class-02 |[ read 02](class-02.md)| 
 |   DAY 3    | class-03 |[ read 03](class-03.md)|
-|   DAY 4    | class-04 |[ read 04](class-04.md)|    
+|   DAY 4    | class-04 |[ read 04](class-04.md)| 
+|   DAY 5    | class-05 |[ read 05](calss-05.md)| 
+|   DAY 6    | class-06 |[ read 06](class-06.md)| 
