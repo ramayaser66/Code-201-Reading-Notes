@@ -28,3 +28,5 @@ ________________________________________________________________
 |   DAY 8    | class-08 |[ read 08](class-08.md)|
 |   DAY 9    | class-09 |[ read 09](class-09.md)|
 |   DAY 10   | class-10 |[ read 10](class-10.md)|
+|   DAY 11   | class-11 |[ read 11](class-11.md)|
+
