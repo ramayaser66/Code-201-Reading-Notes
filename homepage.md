@@ -31,3 +31,5 @@ ________________________________________________________________
 |   DAY 11   | class-11 |[ read 11](class-11.md)|
 |   DAY 12   | class-12 |[ read 12](class-12.md)|
 |   DAY 13   | class-13 |[ read 13](class-13.md)|
+|  DAY 14a   |class-14-a|[read 14a](class-14a.md)|
+|  DAY 14b   |class-14-b|[read 14b](class-14b.md)|
